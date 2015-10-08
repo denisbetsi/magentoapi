@@ -35,10 +35,12 @@ var resources = {
   customerGroup: './resources/customer_group.js',
   directoryCountry: './resources/directory_country.js',
   directoryRegion: './resources/directory_region.js',
+  paymentmethod: './resources/paymentmethod.js',
   salesOrder: './resources/sales_order.js',
   salesOrderCreditMemo: './resources/sales_order_credit_memo.js',
   salesOrderInvoice: './resources/sales_order_invoice.js',
   salesOrderShipment: './resources/sales_order_shipment.js',
+  shippingmethod: './resources/shippingmethod.js',
   store: './resources/store.js'
 };
 var mandatory = {};
