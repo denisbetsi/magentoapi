@@ -45,7 +45,7 @@ var protos = {
     Before placing the order, you need to add the customer, customer address, shipping and payment methods.
   */
   order: {
-    mandatory: 'quoteId',
+    mandatory: 'quoteId,paymentMethod,status',
     optional: 'storeView,agreements'
   },
 
